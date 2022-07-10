@@ -9,7 +9,4 @@ In order to run the code you have to install all the packages used in the code a
 
 * **Netflix.ipynb:** whole data processing code including; imporintg data, data cleaning, and data analysis
 * **netflix_data.csv:** The main dataset
-* **netflix_data.csv:** The main dataset created for performing the color code of the categories.
-* **dataset_geometric.csv:**  The final dataset with just geometrical features.
-* **dataset_cities.csv:** The dataset of the mean of the features in different cities.
-* **dataset_zones.csv:** The dataset of the mean of the features in different climatic zones.
+* **color_data.csv:** The dataset created for performing the color code of the categories.
